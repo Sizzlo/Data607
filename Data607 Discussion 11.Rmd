@@ -1,0 +1,62 @@
+---
+title: "Discussion 11"
+author: "Tony Mei"
+date: "11/6/2019"
+output: 
+  html_document:
+    toc: true
+    theme: cerulean
+    
+---
+## LinkedIn
+
+LinkedIn is a website for professional networking for employers, job-seekers, and recruiters. They also provide a marketplace for job postings. 
+
+## Scenario Analysis
+
+1) Who are the target users?
+
+The target users are employers, job-seekers, recruiters and networkers.
+
+2) What are their key goals?
+
+To find a job or find the candidate perfect for the job. Also to build networks with other people.
+
+3) How can you help them accomplish their goals?
+
+To aid them in selecting most qualified candidates for the job and to recruit more people into the Linkedin system.
+
+## Recommendation Structure of LinkedIn
+
+1) Provides a market of job postings for employers and job-seekers.
+
+a) Recommends jobs closer to current position to you.
+
+b) Also recommends jobs that you have searched previously.
+
+
+
+2) Suggests new network connections of people to aid in expanding your network.
+
+a) Suggests new network connections within your company name, industry and the degrees of connections(1st, 2nd , 3rd, etc)
+
+b) Also recommends people that in your industry that mentor you.
+
+## Personalized Models in Photon-ML
+ 
+At LinkedIn, we have observed significant lifts in user engagement and other business metrics in many product domains through Photon-ML. To provide a concrete example, note how we make personalized job recommendations using a Generalized Additive Mixed-Effect (GAME) model, which generated 20% to 40% more job applications for job seekers in our online A/B experiments.
+
+Source: https://www.kdnuggets.com/2017/10/linkedin-personalized-recommendations-photon-ml.html
+
+
+## Recommendations
+
+1) Job Search
+
+I will like to propose that the job search should display the response rates of each company and the response time. This can help weed out the companies that more interested in you.
+
+2) Networking
+
+I will hope they add a ranking system to network connections that is more relevant to you, instead of provide so many options right now.
+
+
